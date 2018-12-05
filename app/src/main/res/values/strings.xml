@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab_2</string>
+    <string name="name">Tippawan Watped</string>
+    <string name="nickname">Ell</string>
+    <string name="address">สาขาวิชาวิศวกรรมคอมพิวเตอร์สาขาอุตสาหกรรม มหาวิทยาลัยเทคโนโลยีราชมงคลศรีวิชัย วิทยาลัยรัตภูมิ</string>
+    <color name="Bg1">#759911</color>
+</resources>
